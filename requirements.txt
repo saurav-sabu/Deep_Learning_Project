@@ -1,0 +1,11 @@
+bentoml
+torchvison
+tensorflow
+keras
+joblib
+tqdm 
+pip-chill
+wincertstore
+
+-e .
+
