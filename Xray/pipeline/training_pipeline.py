@@ -5,6 +5,7 @@ from Xray.components.data_ingestion import DataIngestion
 from Xray.entity.artifact_entity import DataIngestionArtifact
 from Xray.entity.config_entity import DataIngestionConfig
 from Xray.exception import XRayException
+from Xray.logger import logging
 
 class TrainPipeline:
 
